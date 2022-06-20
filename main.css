@@ -21,9 +21,10 @@ p {
 #chicken {
     font-weight: bold;
     background-color: #ef568d;
-    border: 1px solid #01ed56;
+    border: 1px solid #000;
     position: relative;
-    top: -16px;
+    top: -17px;
+    right: -1px;
     float: right;
     width: 60px;
     text-align: center;
@@ -33,9 +34,10 @@ p {
 #beef {
     font-weight: bold;
     background-color: #fd9000;
-    border: 1px solid #ee1234;
+    border: 1px solid #000;
     position: relative;
-    top: -16px;
+    top: -17px;
+    right: -1px;
     float: right;
     width: 60px;
     text-align: center;
@@ -45,9 +47,10 @@ p {
 #sushi {
     font-weight: bold;
     background-color: #cd63df;
-    border: 1px solid #9023ff;
+    border: 1px solid #000;
     position: relative;
-    top: -16px;
+    top: -17px;
+    right: -1px;
     float: right;
     width: 60px;
     text-align: center;
